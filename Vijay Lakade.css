@@ -7,15 +7,9 @@ html {
 
 
 .container {
-  max-width: 90%;
+  max-width: 60%;
 }
 
-.container {
-  max-width: 90%;
-  box-sizing: border-box;
-  background-color: white;
-  font-family: Calibri, sans-serif;
-}
 
 /* grid */
 @media screen and (max-width: 767px) {
@@ -30,6 +24,13 @@ html {
   .col-xs-3 {width: 25%;}
   .col-xs-2 {width: 16.662%;}
   .col-xs-1 {width: 8.332%;}
+}
+
+.container {
+  max-width: 90%;
+  box-sizing: border-box;
+  background-color: white;
+  font-family: Calibri, sans-serif;
 }
 
 .resume {
