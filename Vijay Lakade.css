@@ -56,6 +56,10 @@ html {
   box-sizing: border-box;
   }
 
+.VJ:hover {
+  background-color: purple;
+}
+
 img {
   height: 200px;
   width: 200px;
