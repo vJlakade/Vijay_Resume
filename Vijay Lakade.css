@@ -35,7 +35,8 @@ html {
   padding: 5px 5px;
   width: 30%;
   box-sizing: border-box;
-  }
+  display: block;
+}
 
 .VJ:hover {
   background-color: purple;
